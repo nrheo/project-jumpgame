@@ -1,4 +1,4 @@
-# Jumping Survival Game
+# Jump Survival Game
 
 ## Introduction:
 We propose developing a single player version of a minigame inspired by Fall Guys. The goal of the game is to survive the longest without falling off the spinning disk. As the game progresses, parts of the disk will start falling off, restricting the player's movement area. Additionally, the speed of the spinning fireball will increase, creating more challenges for the player. The game will feature a rolling ball as the player avatar, and the camera will provide a third-person perspective.
