@@ -8,9 +8,6 @@ The player's objective is to survive as long as possible by avoiding falling off
 
 [![project-jumpgame](https://img.youtube.com/vi/LdAoGFw8leo/0.jpg)](https://youtu.be/LdAoGFw8leo)
 
-![Screenshot 2024-01-15 at 11 17 36 PM](https://github.com/nrheo/project-jumpgame/assets/154557592/7e6ee799-91b3-4174-9cbc-497042775dd5)
-
-
 ## Controls:
 The player will control the rolling ball using the following controls:
 
