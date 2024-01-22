@@ -6,7 +6,7 @@ We propose developing a single player version of a minigame inspired by Fall Guy
 ## Gameplay:
 The player's objective is to survive as long as possible by avoiding falling off the platform or colliding with the spinning fireball. The longer the player survives, the higher their score. The score will be calculated based on the number of seconds survived in each round.
 
-[!project-jumpgame](https://img.youtube.com/vi/LdAoGFw8leo/0.jpg)](https://youtu.be/LdAoGFw8leo)
+[![project-jumpgame](https://img.youtube.com/vi/LdAoGFw8leo/0.jpg)](https://youtu.be/LdAoGFw8leo)
 
 ![Screenshot 2024-01-15 at 11 17 36 PM](https://github.com/nrheo/project-jumpgame/assets/154557592/7e6ee799-91b3-4174-9cbc-497042775dd5)
 
